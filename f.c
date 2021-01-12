@@ -9,6 +9,6 @@ void main(){
 
     total = num1 + num2;
     printf("%d",total);
-     
+    printf("achit");
     //Finish
 }
